@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8e2952c-7e9e-4a10-8c8d-d8ac561db612" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/login.vue" afterDir="false" />
-    </list>
+    <list default="true" id="e8e2952c-7e9e-4a10-8c8d-d8ac561db612" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,8 +110,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/js/components/login.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+            <state relative-caret-position="433">
+              <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-flex#0;n#v-layout#0;n#template#0;n#!!top" expanded="true" />
               </folding>
@@ -471,12 +467,12 @@
       <updated>1556236424159</updated>
       <workItem from="1556236428807" duration="53503000" />
       <workItem from="1556498417160" duration="5997000" />
-      <workItem from="1556546531299" duration="2083000" />
+      <workItem from="1556546531299" duration="2261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61583000" />
+    <option name="totallyTimeSpent" value="61761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -630,8 +626,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/components/login.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+        <state relative-caret-position="433">
+          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
           <folding>
             <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-flex#0;n#v-layout#0;n#template#0;n#!!top" expanded="true" />
           </folding>

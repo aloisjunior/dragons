@@ -2590,7 +2590,9 @@ __webpack_require__.r(__webpack_exports__);
   },
   methods: {
     callLogin: function callLogin() {
-      this.$emit('loginOk');
+      if (this.user == 'agora' && this.password == 'valida') {
+        this.$emit('loginOk');
+      }
     }
   }
 });

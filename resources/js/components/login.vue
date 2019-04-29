@@ -59,7 +59,9 @@
         },
         methods: {
             callLogin: function () {
-                this.$emit('loginOk');
+                if ((this.user =='agora')&&(this.password=='valida')){
+                    this.$emit('loginOk');
+                }
             }
         }
     }

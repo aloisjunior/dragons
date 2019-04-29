@@ -52731,7 +52731,7 @@ var render = function() {
     [
       _c(
         "v-flex",
-        { attrs: { xs12: "", sm8: "", md6: "" } },
+        { attrs: { xs12: "", sm8: "", md4: "" } },
         [
           _c("v-flex", { attrs: { xs12: "", "text-xs-center": "" } }, [
             _c("img", {
@@ -91833,8 +91833,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\_Trabalho\desenvolvimento\php-laravel\sollus\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! D:\_Trabalho\desenvolvimento\php-laravel\sollus\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! D:\_Trabalho\desenvolvimento\php-laravel\git\sollus\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! D:\_Trabalho\desenvolvimento\php-laravel\git\sollus\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

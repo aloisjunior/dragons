@@ -1,7 +1,7 @@
 <template>
 
     <v-layout align-center justify-center>
-        <v-flex xs12 sm8 md6>
+        <v-flex xs12 sm8 md4>
             <v-flex xs12 text-xs-center>
                 <img src="/img/logoLogin.gif" alt="" style="width:350px">
             </v-flex>
